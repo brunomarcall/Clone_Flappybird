@@ -7,7 +7,7 @@ Um clone do clássico flappybird usando [python-pygame][pygame]
 1. Clone o repositório:
 
    ```bash
-   $ git clone https://github.com/sourabhv/FlapPyBird
+   $ git clone https://github.com/brunomarcall/Clone_Flappybird
    ```
 
    ou realize o download no formato zip e extraia o conteúdo para uma pasta.
