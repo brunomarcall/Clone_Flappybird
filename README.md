@@ -1,2 +1,16 @@
-# Clone_Flappybird
-Um clone do clássico flappybird
+Projeto Final: Desenvolvimento de games
+===============
+
+Um clone do clássico flappybird usando [python-pygame][pygame]
+
+
+1. Clone o repositório:
+
+   ```bash
+   $ git clone https://github.com/sourabhv/FlapPyBird
+   ```
+
+   ou realize o download no formato zip e extraia o conteúdo para uma pasta.
+
+
+
